@@ -1,4 +1,4 @@
-<h1>Register system</h1>
+<h1>Registration system</h1>
 
 - Project status: In progress.
 
